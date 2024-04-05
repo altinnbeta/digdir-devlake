@@ -1,1 +1,3 @@
-# altinn-devlake
+# Digdir DevLake
+
+https://devlake.apache.org/
